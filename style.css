@@ -1,0 +1,35 @@
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: inherit;
+    font-weight: bold;
+    color: lightcoral;
+}
+
+h4
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+}
+
+h3
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: inherit;
+    color: rgb(0, 104, 72);
+
+}
+
+p
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    color: crimson;
+}
+
+label
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    color: deeppink;
+}
